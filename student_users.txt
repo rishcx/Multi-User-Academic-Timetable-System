@@ -1,0 +1,10 @@
+student1,Stud@123
+student2,Stud@456
+student3,Stud@789
+student4,Stud@101
+student5,Stud@102
+098,098
+123,123
+Aditya Jaiswal,131
+user1,456
+aditya,313
